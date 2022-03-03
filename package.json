@@ -1,0 +1,29 @@
+{
+  "name": "blog_pessoal",
+  "version": "1.0.0",
+  "description": "Projeto de Blog Pessoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "Blog, Politica local,  "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeReisOlinto/Blog.git"
+  },
+  "keywords": [
+    "Mirelly30@"
+  ],
+  "author": "Guilherme Olinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeReisOlinto/Blog/issues"
+  },
+  "homepage": "https://github.com/GuilhermeReisOlinto/Blog#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.17.0",
+    "sqlite3": "^5.0.2"
+  }
+}
